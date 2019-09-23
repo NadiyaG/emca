@@ -1,0 +1,397 @@
+2019-09-20 11:49:57 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 11:49:58 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 11:50:00 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 11:50:03 INFO  Utility:81 - Actual and expected result matches
+2019-09-20 11:50:04 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 11:50:04 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 11:50:09 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 11:50:15 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 11:51:38 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 11:51:38 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 11:51:40 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 11:51:43 INFO  Utility:81 - Actual and expected result matches
+2019-09-20 11:51:43 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 11:51:44 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 11:51:49 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 11:51:54 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 11:55:45 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 11:55:46 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 11:55:48 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 11:55:51 INFO  Utility:81 - Actual and expected result matches
+2019-09-20 11:55:52 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 11:55:52 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 11:55:57 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 11:56:02 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 11:57:00 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 11:57:00 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 11:57:02 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 11:57:05 INFO  Utility:81 - Actual and expected result matches
+2019-09-20 11:57:06 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 11:57:06 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 11:57:11 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 11:57:16 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:03:27 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 12:03:27 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 12:03:30 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:03:32 INFO  Utility:81 - Actual and expected result matches
+2019-09-20 12:03:33 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:03:33 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:03:38 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:03:44 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:03:48 INFO  CaAdministratorProfile_Script:15 - this is pre-login information
+2019-09-20 12:10:26 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 12:10:27 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 12:10:29 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:10:31 INFO  Utility:81 - Actual and expected result matches
+2019-09-20 12:10:32 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:10:32 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:10:37 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:10:42 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:10:47 INFO  CaAdministratorProfile_Script:15 - this is pre-login information
+2019-09-20 12:12:52 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 12:12:53 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 12:12:55 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:12:57 INFO  Utility:81 - Actual and expected result matches
+2019-09-20 12:12:58 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:12:59 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:13:03 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:13:08 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:13:13 INFO  CaAdministratorProfile_Script:15 - this is pre-login information
+2019-09-20 12:15:29 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 12:15:30 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 12:15:32 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:15:34 INFO  Utility:81 - Actual and expected result matches
+2019-09-20 12:15:35 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:15:36 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:15:41 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:15:46 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:15:50 INFO  CaAdministratorProfile_Script:15 - this is pre-login information
+2019-09-20 12:20:50 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 12:20:51 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 12:20:53 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:20:55 INFO  Utility:81 - Actual and expected result matches
+2019-09-20 12:20:57 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:20:57 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:21:02 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:21:07 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:21:12 INFO  CaAdministratorProfile_Script:15 - this is pre-login information
+2019-09-20 12:24:35 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 12:24:35 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 12:24:37 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:24:40 INFO  Utility:81 - Actual and expected result matches
+2019-09-20 12:24:41 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:24:41 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:24:46 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:24:51 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:24:55 INFO  CaAdministratorProfile_Script:15 - this is pre-login information
+2019-09-20 12:26:11 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 12:26:12 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 12:26:14 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:26:16 INFO  Utility:81 - Actual and expected result matches
+2019-09-20 12:26:17 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:26:18 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:26:23 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:26:28 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:26:32 INFO  CaAdministratorProfile_Script:15 - this is pre-login information
+2019-09-20 12:27:41 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 12:27:43 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 12:27:45 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:27:47 INFO  Utility:81 - Actual and expected result matches
+2019-09-20 12:27:48 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:27:49 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:27:54 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:27:59 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:28:03 INFO  CaAdministratorProfile_Script:15 - this is pre-login information
+2019-09-20 12:28:52 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 12:28:53 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 12:28:55 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:28:57 INFO  Utility:81 - Actual and expected result matches
+2019-09-20 12:28:58 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:28:59 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:29:04 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:29:09 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:29:13 INFO  CaAdministratorProfile_Script:15 - this is pre-login information
+2019-09-20 12:30:08 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 12:30:08 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 12:30:10 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:30:13 INFO  Utility:81 - Actual and expected result matches
+2019-09-20 12:30:14 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:30:14 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:30:19 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:30:24 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:30:29 INFO  CaAdministratorProfile_Script:15 - this is pre-login information
+2019-09-20 12:31:11 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 12:31:13 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 12:31:16 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:31:18 INFO  Utility:81 - Actual and expected result matches
+2019-09-20 12:31:19 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:31:19 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:31:24 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:31:29 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:31:33 INFO  CaAdministratorProfile_Script:15 - this is pre-login information
+2019-09-20 12:32:23 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 12:32:23 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 12:32:25 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:32:28 INFO  Utility:81 - Actual and expected result matches
+2019-09-20 12:32:29 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:32:29 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:32:34 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:32:39 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:32:44 INFO  CaAdministratorProfile_Script:15 - this is pre-login information
+2019-09-20 12:33:31 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 12:33:32 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 12:33:34 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:33:36 INFO  Utility:81 - Actual and expected result matches
+2019-09-20 12:33:37 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:33:37 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:33:42 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:33:47 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 12:33:52 INFO  CaAdministratorProfile_Script:15 - this is pre-login information
+2019-09-20 13:05:44 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 13:05:44 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 13:05:47 INFO  Login_Script:24 - this is login information
+2019-09-20 13:05:47 INFO  Login_Script:29 - Username picked from Excel is adm@gmail.com
+2019-09-20 13:05:47 INFO  Login_Script:30 - Username picked from Excel is emudhra@1
+2019-09-20 13:05:51 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 13:05:51 INFO  Login_Script:24 - this is login information
+2019-09-20 13:05:51 INFO  Login_Script:29 - Username picked from Excel is sindhuofficer2@gmail.com
+2019-09-20 13:05:51 INFO  Login_Script:30 - Username picked from Excel is emudhra@2
+2019-09-20 13:05:51 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 13:05:51 INFO  Login_Script:24 - this is login information
+2019-09-20 13:05:51 INFO  Login_Script:29 - Username picked from Excel is sindhuauditor1@gmail.com
+2019-09-20 13:05:51 INFO  Login_Script:30 - Username picked from Excel is emudhra@2
+2019-09-20 13:05:51 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 13:05:51 INFO  Login_Script:24 - this is login information
+2019-09-20 13:05:51 INFO  Login_Script:29 - Username picked from Excel is sindhuoperator1@gmail.com
+2019-09-20 13:05:51 INFO  Login_Script:30 - Username picked from Excel is emudhra@2
+2019-09-20 13:05:51 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 14:15:50 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 14:15:51 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 14:15:53 INFO  Login_Script:24 - this is login information
+2019-09-20 14:15:53 INFO  Login_Script:29 - Username picked from Excel is adm@gmail.com
+2019-09-20 14:15:53 INFO  Login_Script:30 - Username picked from Excel is emudhra@1
+2019-09-20 14:15:58 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 14:15:58 INFO  Login_Script:24 - this is login information
+2019-09-20 14:15:58 INFO  Login_Script:29 - Username picked from Excel is sindhuofficer2@gmail.com
+2019-09-20 14:15:58 INFO  Login_Script:30 - Username picked from Excel is emudhra@2
+2019-09-20 14:15:58 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 14:15:58 INFO  Login_Script:24 - this is login information
+2019-09-20 14:15:58 INFO  Login_Script:29 - Username picked from Excel is sindhuauditor1@gmail.com
+2019-09-20 14:15:58 INFO  Login_Script:30 - Username picked from Excel is emudhra@2
+2019-09-20 14:15:58 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 14:15:58 INFO  Login_Script:24 - this is login information
+2019-09-20 14:15:58 INFO  Login_Script:29 - Username picked from Excel is sindhuoperator1@gmail.com
+2019-09-20 14:15:58 INFO  Login_Script:30 - Username picked from Excel is emudhra@2
+2019-09-20 14:15:58 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 14:18:33 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 14:18:33 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 14:18:35 INFO  Login_Script:24 - this is login information
+2019-09-20 14:18:35 INFO  Login_Script:29 - Username picked from Excel is adm@gmail.com
+2019-09-20 14:18:35 INFO  Login_Script:30 - Username picked from Excel is emudhra@1
+2019-09-20 14:18:40 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 14:18:40 INFO  Login_Script:24 - this is login information
+2019-09-20 14:18:40 INFO  Login_Script:29 - Username picked from Excel is sindhuofficer2@gmail.com
+2019-09-20 14:18:40 INFO  Login_Script:30 - Username picked from Excel is emudhra@2
+2019-09-20 14:18:40 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 14:18:40 INFO  Login_Script:24 - this is login information
+2019-09-20 14:18:40 INFO  Login_Script:29 - Username picked from Excel is sindhuauditor1@gmail.com
+2019-09-20 14:18:40 INFO  Login_Script:30 - Username picked from Excel is emudhra@2
+2019-09-20 14:18:40 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 14:18:40 INFO  Login_Script:24 - this is login information
+2019-09-20 14:18:40 INFO  Login_Script:29 - Username picked from Excel is sindhuoperator1@gmail.com
+2019-09-20 14:18:40 INFO  Login_Script:30 - Username picked from Excel is emudhra@2
+2019-09-20 14:18:40 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 14:22:08 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 14:22:10 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 14:22:12 INFO  Login_Script:24 - this is login information
+2019-09-20 14:22:12 INFO  Login_Script:29 - Username picked from Excel is adm@gmail.com
+2019-09-20 14:22:12 INFO  Login_Script:30 - Username picked from Excel is emudhra@1
+2019-09-20 14:22:16 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 14:22:16 INFO  Login_Script:24 - this is login information
+2019-09-20 14:22:16 INFO  Login_Script:29 - Username picked from Excel is sindhuofficer2@gmail.com
+2019-09-20 14:22:16 INFO  Login_Script:30 - Username picked from Excel is emudhra@2
+2019-09-20 14:22:16 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 14:22:16 INFO  Login_Script:24 - this is login information
+2019-09-20 14:22:16 INFO  Login_Script:29 - Username picked from Excel is sindhuauditor1@gmail.com
+2019-09-20 14:22:16 INFO  Login_Script:30 - Username picked from Excel is emudhra@2
+2019-09-20 14:22:16 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 14:22:16 INFO  Login_Script:24 - this is login information
+2019-09-20 14:22:16 INFO  Login_Script:29 - Username picked from Excel is sindhuoperator1@gmail.com
+2019-09-20 14:22:16 INFO  Login_Script:30 - Username picked from Excel is emudhra@2
+2019-09-20 14:22:16 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 15:52:09 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 15:52:10 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 15:52:12 INFO  Login_Script:24 - this is login information
+2019-09-20 15:52:12 INFO  Login_Script:29 - Username picked from Excel is adm@gmail.com
+2019-09-20 15:52:12 INFO  Login_Script:30 - Username picked from Excel is emudhra@1
+2019-09-20 15:52:16 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 15:52:16 INFO  Login_Script:24 - this is login information
+2019-09-20 15:52:16 INFO  Login_Script:29 - Username picked from Excel is sindhuofficer2@gmail.com
+2019-09-20 15:52:16 INFO  Login_Script:30 - Username picked from Excel is emudhra@2
+2019-09-20 15:52:16 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 15:52:16 INFO  Login_Script:24 - this is login information
+2019-09-20 15:52:16 INFO  Login_Script:29 - Username picked from Excel is sindhuauditor1@gmail.com
+2019-09-20 15:52:16 INFO  Login_Script:30 - Username picked from Excel is emudhra@2
+2019-09-20 15:52:16 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 15:52:16 INFO  Login_Script:24 - this is login information
+2019-09-20 15:52:16 INFO  Login_Script:29 - Username picked from Excel is sindhuoperator1@gmail.com
+2019-09-20 15:52:16 INFO  Login_Script:30 - Username picked from Excel is emudhra@2
+2019-09-20 15:52:16 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 16:00:31 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 16:00:32 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 16:00:34 INFO  Login_Script:24 - this is login information
+2019-09-20 16:00:34 INFO  Login_Script:29 - Username picked from Excel is adm@gmail.com
+2019-09-20 16:00:34 INFO  Login_Script:30 - Username picked from Excel is emudhra@1
+2019-09-20 16:00:38 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 16:00:38 INFO  Login_Script:24 - this is login information
+2019-09-20 16:00:38 INFO  Login_Script:29 - Username picked from Excel is sindhuofficer2@gmail.com
+2019-09-20 16:00:38 INFO  Login_Script:30 - Username picked from Excel is emudhra@2
+2019-09-20 16:00:38 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 16:00:38 INFO  Login_Script:24 - this is login information
+2019-09-20 16:00:38 INFO  Login_Script:29 - Username picked from Excel is sindhuauditor1@gmail.com
+2019-09-20 16:00:38 INFO  Login_Script:30 - Username picked from Excel is emudhra@2
+2019-09-20 16:00:38 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 16:00:38 INFO  Login_Script:24 - this is login information
+2019-09-20 16:00:38 INFO  Login_Script:29 - Username picked from Excel is sindhuoperator1@gmail.com
+2019-09-20 16:00:38 INFO  Login_Script:30 - Username picked from Excel is emudhra@2
+2019-09-20 16:00:38 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 16:04:15 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 16:04:16 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 16:04:18 INFO  Login_Script:24 - this is login information
+2019-09-20 16:04:18 INFO  Login_Script:29 - Username picked from Excel is adm@gmail.com
+2019-09-20 16:04:18 INFO  Login_Script:30 - Username picked from Excel is emudhra@1
+2019-09-20 16:04:22 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 16:04:22 INFO  Login_Script:24 - this is login information
+2019-09-20 16:04:22 INFO  Login_Script:29 - Username picked from Excel is sindhuofficer2@gmail.com
+2019-09-20 16:04:22 INFO  Login_Script:30 - Username picked from Excel is emudhra@2
+2019-09-20 16:04:22 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 16:04:22 INFO  Login_Script:24 - this is login information
+2019-09-20 16:04:22 INFO  Login_Script:29 - Username picked from Excel is sindhuauditor1@gmail.com
+2019-09-20 16:04:22 INFO  Login_Script:30 - Username picked from Excel is emudhra@2
+2019-09-20 16:04:22 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 16:04:22 INFO  Login_Script:24 - this is login information
+2019-09-20 16:04:22 INFO  Login_Script:29 - Username picked from Excel is sindhuoperator1@gmail.com
+2019-09-20 16:04:22 INFO  Login_Script:30 - Username picked from Excel is emudhra@2
+2019-09-20 16:04:22 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 16:12:21 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 16:12:21 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 16:12:23 INFO  Login_Script:24 - this is login information
+2019-09-20 16:12:23 INFO  Login_Script:29 - Username picked from Excel is adm@gmail.com
+2019-09-20 16:12:23 INFO  Login_Script:30 - Username picked from Excel is emudhra@1
+2019-09-20 16:12:27 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 16:12:27 INFO  Login_Script:24 - this is login information
+2019-09-20 16:12:27 INFO  Login_Script:29 - Username picked from Excel is sindhuofficer2@gmail.com
+2019-09-20 16:12:27 INFO  Login_Script:30 - Username picked from Excel is emudhra@2
+2019-09-20 16:12:27 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 16:12:27 INFO  Login_Script:24 - this is login information
+2019-09-20 16:12:27 INFO  Login_Script:29 - Username picked from Excel is sindhuauditor1@gmail.com
+2019-09-20 16:12:27 INFO  Login_Script:30 - Username picked from Excel is emudhra@2
+2019-09-20 16:12:27 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 16:12:27 INFO  Login_Script:24 - this is login information
+2019-09-20 16:12:27 INFO  Login_Script:29 - Username picked from Excel is sindhuoperator1@gmail.com
+2019-09-20 16:12:27 INFO  Login_Script:30 - Username picked from Excel is emudhra@2
+2019-09-20 16:12:27 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 16:12:49 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 16:12:49 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 16:12:51 INFO  Login_Script:24 - this is login information
+2019-09-20 16:12:51 INFO  Login_Script:29 - Username picked from Excel is adm@gmail.com
+2019-09-20 16:12:51 INFO  Login_Script:30 - Username picked from Excel is emudhra@1
+2019-09-20 16:12:55 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 16:12:55 INFO  Login_Script:24 - this is login information
+2019-09-20 16:12:55 INFO  Login_Script:29 - Username picked from Excel is sindhuofficer2@gmail.com
+2019-09-20 16:12:55 INFO  Login_Script:30 - Username picked from Excel is emudhra@2
+2019-09-20 16:12:55 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 16:12:55 INFO  Login_Script:24 - this is login information
+2019-09-20 16:12:55 INFO  Login_Script:29 - Username picked from Excel is sindhuauditor1@gmail.com
+2019-09-20 16:12:55 INFO  Login_Script:30 - Username picked from Excel is emudhra@2
+2019-09-20 16:12:55 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 16:12:55 INFO  Login_Script:24 - this is login information
+2019-09-20 16:12:55 INFO  Login_Script:29 - Username picked from Excel is sindhuoperator1@gmail.com
+2019-09-20 16:12:55 INFO  Login_Script:30 - Username picked from Excel is emudhra@2
+2019-09-20 16:12:55 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 16:15:26 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 16:15:26 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 16:15:28 INFO  Login_Script:24 - this is login information
+2019-09-20 16:15:28 INFO  Login_Script:29 - Username picked from Excel is adm@gmail.com
+2019-09-20 16:15:28 INFO  Login_Script:30 - Username picked from Excel is emudhra@1
+2019-09-20 16:15:32 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 16:15:32 INFO  Login_Script:24 - this is login information
+2019-09-20 16:15:32 INFO  Login_Script:29 - Username picked from Excel is sindhuofficer2@gmail.com
+2019-09-20 16:15:32 INFO  Login_Script:30 - Username picked from Excel is emudhra@2
+2019-09-20 16:15:32 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 16:15:32 INFO  Login_Script:24 - this is login information
+2019-09-20 16:15:32 INFO  Login_Script:29 - Username picked from Excel is sindhuauditor1@gmail.com
+2019-09-20 16:15:32 INFO  Login_Script:30 - Username picked from Excel is emudhra@2
+2019-09-20 16:15:32 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 16:15:32 INFO  Login_Script:24 - this is login information
+2019-09-20 16:15:32 INFO  Login_Script:29 - Username picked from Excel is sindhuoperator1@gmail.com
+2019-09-20 16:15:32 INFO  Login_Script:30 - Username picked from Excel is emudhra@2
+2019-09-20 16:15:32 INFO  Login_Script:34 - Logged in successfully
+2019-09-20 16:20:19 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 16:20:19 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 16:20:21 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 16:20:23 INFO  Utility:81 - Actual and expected result matches
+2019-09-20 16:20:24 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 16:20:25 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 16:20:30 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 16:20:35 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 16:20:39 INFO  CaAdministratorProfile_Script:15 - this is pre-login information
+2019-09-20 16:22:05 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 16:22:06 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 16:22:08 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 16:22:10 INFO  Utility:81 - Actual and expected result matches
+2019-09-20 16:22:11 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 16:22:12 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 16:22:17 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 16:22:22 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 16:23:19 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 16:23:21 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 16:23:23 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 16:23:25 INFO  Utility:81 - Actual and expected result matches
+2019-09-20 16:23:26 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 16:23:27 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 16:23:31 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 16:23:36 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 16:29:03 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 16:29:03 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 16:29:05 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 16:29:08 INFO  Utility:81 - Actual and expected result matches
+2019-09-20 16:29:08 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 16:29:09 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 16:29:14 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 16:29:19 INFO  LoginCaAdministrator_Script:20 - this is login information
+2019-09-20 16:31:08 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 16:31:09 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 16:31:11 INFO  LoginCAAdmin_Script:21 - this is login information
+2019-09-20 16:31:11 INFO  LoginCAAdmin_Script:21 - this is login information
+2019-09-20 16:31:11 INFO  LoginCAAdmin_Script:21 - this is login information
+2019-09-20 16:31:11 INFO  LoginCAAdmin_Script:21 - this is login information
+2019-09-20 16:31:11 INFO  LoginCAAdmin_Script:21 - this is login information
+2019-09-20 16:37:29 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 16:37:30 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 16:37:32 INFO  LoginCAAdmin_Script:21 - this is login information
+2019-09-20 16:37:32 INFO  LoginCAAdmin_Script:21 - this is login information
+2019-09-20 16:37:32 INFO  LoginCAAdmin_Script:21 - this is login information
+2019-09-20 16:37:32 INFO  LoginCAAdmin_Script:21 - this is login information
+2019-09-20 16:37:32 INFO  LoginCAAdmin_Script:21 - this is login information
+2019-09-20 16:40:31 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 16:40:32 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 16:40:34 INFO  LoginCAAdmin_Script:21 - this is login information
+2019-09-20 16:40:34 INFO  LoginCAAdmin_Script:21 - this is login information
+2019-09-20 16:40:34 INFO  LoginCAAdmin_Script:21 - this is login information
+2019-09-20 16:40:34 INFO  LoginCAAdmin_Script:21 - this is login information
+2019-09-20 16:40:34 INFO  LoginCAAdmin_Script:21 - this is login information
+2019-09-20 16:54:59 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 16:54:59 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 16:55:01 INFO  LoginCAAdmin_Script:21 - this is login information
+2019-09-20 16:55:01 INFO  LoginCAAdmin_Script:21 - this is login information
+2019-09-20 16:55:01 INFO  LoginCAAdmin_Script:21 - this is login information
+2019-09-20 16:55:01 INFO  LoginCAAdmin_Script:21 - this is login information
+2019-09-20 16:55:01 INFO  LoginCAAdmin_Script:21 - this is login information
+2019-09-20 17:07:55 INFO  Basefunctions:61 - Open the Browser
+2019-09-20 17:07:56 INFO  Basefunctions:69 - Enter the URL
+2019-09-20 17:07:58 INFO  LoginCAAdmin_Script:21 - this is login information
+2019-09-20 17:07:58 INFO  LoginCAAdmin_Script:21 - this is login information
+2019-09-20 17:07:58 INFO  LoginCAAdmin_Script:21 - this is login information
+2019-09-20 17:07:58 INFO  LoginCAAdmin_Script:21 - this is login information
+2019-09-20 17:07:58 INFO  LoginCAAdmin_Script:21 - this is login information
